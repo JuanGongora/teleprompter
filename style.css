@@ -1,0 +1,14 @@
+body {
+	background: black;
+	color: white;
+	font: Verdana, Geneva, sans-serif;
+	font-size: 30px;
+	line-height: 36px;	
+	overflow: hidden;
+}
+p {
+	margin: 20px;
+}
+#teleprompter {
+	position: absolute;
+}
